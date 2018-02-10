@@ -1,18 +1,19 @@
 # Natural-Language-Processing
 
-NLP using below concepts on widely used frameworks :
+## NLP using below concepts on widely used frameworks :
 
-Concepts:
+## Concepts:
 
-1. TF-IDF (Term Frequency-Inverse Document Frequency)
-2. Deep Learning  : 
+### TF-IDF (Term Frequency-Inverse Document Frequency)
+### Deep Learning : 
+
        • RNN (Recurrent Neural Networks)
        • LSTM (Long Short Term Memory)
        • CNN (Convolutional Neural Networks)
-3. Unsupervised Algorithms - Kmeans Clustering
-4. Supervised Algortihms - Gradient Descent, Regularized Logistic Regression, Support Vector Machines
+### Unsupervised Algorithms - Kmeans Clustering
+### Supervised Algortihms - Gradient Descent, Regularized Logistic Regression, Support Vector Machines
 
-Frameworks:
+## Frameworks:
 
-1. TensorFlow
-2. Keras
+## TensorFlow
+## Keras
