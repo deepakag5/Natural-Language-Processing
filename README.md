@@ -14,6 +14,8 @@
 #### Unsupervised Algorithms - Kmeans Clustering
 #### Supervised Algortihms - Gradient Descent, Regularized Logistic Regression, Support Vector Machines
 
+
+
 ## Frameworks:
 
 #### TensorFlow
