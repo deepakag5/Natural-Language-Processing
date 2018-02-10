@@ -8,8 +8,9 @@
 ### Deep Learning : 
 
        • RNN (Recurrent Neural Networks)
-       • LSTM (Long Short Term Memory)
        • CNN (Convolutional Neural Networks)
+       • LSTM (Long Short Term Memory)
+       
 ### Unsupervised Algorithms - Kmeans Clustering
 ### Supervised Algortihms - Gradient Descent, Regularized Logistic Regression, Support Vector Machines
 
