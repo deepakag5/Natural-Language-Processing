@@ -23,6 +23,8 @@
 ### 4. Supervised Algortihms - Gradient Descent, Regularized Logistic Regression, SVM
 
 
+
+
 ## Frameworks:
 
 ### 1. TensorFlow
