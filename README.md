@@ -19,8 +19,8 @@
      d. Bidirectional-LSTM (Bidirectional Long Short Term Memory)
      e. Model Stacking (RNN+CNN or Bidirectional LSTM+CNN)
      
-### 3. Unsupervised Algorithms - Kmeans Clustering
-### 4. Supervised Algortihms - Gradient Descent, Regularized Logistic Regression, Support Vector Machines
+### 3. Unsupervised Algorithms - KMeans Clustering
+### 4. Supervised Algortihms - Gradient Descent, Regularized Logistic Regression, SVM
 
 
 ## Frameworks:
