@@ -9,9 +9,11 @@
    * ####  RNN (Recurrent Neural Networks) 
    * ####  CNN (Convolutional Neural Networks)
    * ####  LSTM (Long Short Term Memory)
+   * ####  Bidirectional-LSTM (Bidirectional Long Short Term Memory)
        
 #### 3. Unsupervised Algorithms - Kmeans Clustering
 #### 4. Supervised Algortihms - Gradient Descent, Regularized Logistic Regression, Support Vector Machines
+#### 5. Word2Vec Embedding
 
 
 
