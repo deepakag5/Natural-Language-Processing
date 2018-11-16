@@ -2,9 +2,7 @@
 
 ## NLP using below concepts on widely used frameworks :
 
-## Concepts:
-
-#### 1. NLP Concepts :
+### 1. NLP Concepts :
      a. TF-IDF (Term Frequency-Inverse Document Frequency)
      b. Sentence detection and segmentation
      c. Named Entity Recognition (NER) 
@@ -14,18 +12,18 @@
      g. Token Attributes
      h. Word2Vec Embedding
      
-#### 2. Deep Learning : 
+### 2. Deep Learning : 
      a. RNN (Recurrent Neural Networks) 
      b. CNN (Convolutional Neural Networks)
      c. LSTM (Long Short Term Memory)
      d. Bidirectional-LSTM (Bidirectional Long Short Term Memory)
      e. Model Stacking (RNN+CNN or Bidirectional LSTM+CNN)
      
-#### 3. Unsupervised Algorithms - Kmeans Clustering
-#### 4. Supervised Algortihms - Gradient Descent, Regularized Logistic Regression, Support Vector Machines
+### 3. Unsupervised Algorithms - Kmeans Clustering
+### 4. Supervised Algortihms - Gradient Descent, Regularized Logistic Regression, Support Vector Machines
 
 
 ## Frameworks:
 
-#### 1. TensorFlow
-#### 2. Keras
+### 1. TensorFlow
+### 2. Keras
